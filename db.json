@@ -1,81 +1,308 @@
 {
-"posts": [
-    {
-      "id": 1,
-      "username": "philzcoffee",
-      "thumbnailUrl": "https://tk-assets.lambdaschool.com/ecd33d34-c124-4b75-92d2-e5c52c171ed8_11201517_887808411287357_1307163552_a.jpg",
-      "imageUrl": "https://tk-assets.lambdaschool.com/69cf901b-f96d-466e-a745-ff2a01effac9_philz-image.jpg",
-      "likes": 400,
-      "liked": false,
-      "timestamp": "July 17th 2017, 12:42:40 pm",
-      "comments": [
-        {
-          "username": "philzcoffee",
-          "text": "We've got more than just delicious coffees to offer at our shops!"
+    "posts": [{
+            "id": 1,
+            "username": "philzcoffee",
+            "thumbnailUrl": "https://tk-assets.lambdaschool.com/ecd33d34-c124-4b75-92d2-e5c52c171ed8_11201517_887808411287357_1307163552_a.jpg",
+            "imageUrl": "https://tk-assets.lambdaschool.com/69cf901b-f96d-466e-a745-ff2a01effac9_philz-image.jpg",
+            "likes": 400,
+            "liked": false,
+            "timestamp": "July 17th 2017, 12:42:40 pm",
+            "comments": [{
+                    "username": "philzcoffee",
+                    "text": "We've got more than just delicious coffees to offer at our shops!"
+                },
+                {
+                    "username": "biancasaurus",
+                    "text": "Looks delicious!"
+                },
+                {
+                    "username": "martinseludo",
+                    "text": "Can't wait to try it!"
+                }
+            ]
         },
         {
-          "username": "biancasaurus",
-          "text": "Looks delicious!"
+            "id": 2,
+            "username": "fortnite",
+            "thumbnailUrl": "https://tk-assets.lambdaschool.com/ce601fdf-7cb0-4098-83d3-1a1584a72513_30841289_342445456281079_112845064497004544_n.jpg",
+            "imageUrl": "https://tk-assets.lambdaschool.com/89d13918-b7a2-4b40-9658-f376ea3f6b59_37131538_213683546146400_1083714364399157248_n.jpg",
+            "likes": 4307,
+            "liked": false,
+            "timestamp": "July 15th 2017, 03:12:09 pm",
+            "comments": [{
+                    "username": "twitch",
+                    "text": "Epic Street Fighter action here in Las Vegas at #EVO2017!"
+                },
+                {
+                    "username": "michaelmarzetta",
+                    "text": "Omg that match was crazy"
+                },
+                {
+                    "username": "themexican_leprechaun",
+                    "text": "What a setup"
+                },
+                {
+                    "username": "dennis_futbol",
+                    "text": "It that injustice"
+                },
+                {
+                    "username": "dennis_futbol",
+                    "text": "Is"
+                }
+            ]
         },
         {
-          "username": "martinseludo",
-          "text": "Can't wait to try it!"
+            "id": 3,
+            "username": "playhearthstone",
+            "thumbnailUrl": "https://tk-assets.lambdaschool.com/c432f179-8bd7-4758-959d-d88a21f96bca_37105899_432228420518610_5035444036064772096_n.jpg",
+            "imageUrl": "https://tk-assets.lambdaschool.com/43bf01f9-319c-469d-8cf5-0120fe1007f1_yosemite.jpg",
+            "likes": 5306,
+            "liked": false,
+            "timestamp": "July 14th 2017, 10:04:08 am",
+            "comments": [{
+                    "username": "playhearthstone",
+                    "text": "Love this shot!"
+                },
+                {
+                    "username": "awaywetravel",
+                    "text": "Yosemite is my most favorite place in the universe"
+                },
+                {
+                    "username": "awesomebt28",
+                    "text": "I like how Half Dome looks so old and useless"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 2,
-      "username": "fortnite",
-      "thumbnailUrl": "https://tk-assets.lambdaschool.com/ce601fdf-7cb0-4098-83d3-1a1584a72513_30841289_342445456281079_112845064497004544_n.jpg",
-      "imageUrl": "https://tk-assets.lambdaschool.com/89d13918-b7a2-4b40-9658-f376ea3f6b59_37131538_213683546146400_1083714364399157248_n.jpg",
-      "likes": 4307,
-      "liked": false,
-      "timestamp": "July 15th 2017, 03:12:09 pm",
-      "comments": [
-        {
-          "username": "twitch",
-          "text": "Epic Street Fighter action here in Las Vegas at #EVO2017!"
+    ],
+    "users": [{
+            "id": 1,
+            "name": "Leanne Graham",
+            "username": "Bret",
+            "email": "Sincere@april.biz",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 556",
+                "city": "Gwenborough",
+                "zipcode": "92998-3874",
+                "geo": {
+                    "lat": "-37.3159",
+                    "lng": "81.1496"
+                }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            }
         },
         {
-          "username": "michaelmarzetta",
-          "text": "Omg that match was crazy"
+            "id": 2,
+            "name": "Ervin Howell",
+            "username": "Antonette",
+            "email": "Shanna@melissa.tv",
+            "address": {
+                "street": "Victor Plains",
+                "suite": "Suite 879",
+                "city": "Wisokyburgh",
+                "zipcode": "90566-7771",
+                "geo": {
+                    "lat": "-43.9509",
+                    "lng": "-34.4618"
+                }
+            },
+            "phone": "010-692-6593 x09125",
+            "website": "anastasia.net",
+            "company": {
+                "name": "Deckow-Crist",
+                "catchPhrase": "Proactive didactic contingency",
+                "bs": "synergize scalable supply-chains"
+            }
         },
         {
-          "username": "themexican_leprechaun",
-          "text": "What a setup"
+            "id": 3,
+            "name": "Clementine Bauch",
+            "username": "Samantha",
+            "email": "Nathan@yesenia.net",
+            "address": {
+                "street": "Douglas Extension",
+                "suite": "Suite 847",
+                "city": "McKenziehaven",
+                "zipcode": "59590-4157",
+                "geo": {
+                    "lat": "-68.6102",
+                    "lng": "-47.0653"
+                }
+            },
+            "phone": "1-463-123-4447",
+            "website": "ramiro.info",
+            "company": {
+                "name": "Romaguera-Jacobson",
+                "catchPhrase": "Face to face bifurcated interface",
+                "bs": "e-enable strategic applications"
+            }
         },
         {
-          "username": "dennis_futbol",
-          "text": "It that injustice"
+            "id": 4,
+            "name": "Patricia Lebsack",
+            "username": "Karianne",
+            "email": "Julianne.OConner@kory.org",
+            "address": {
+                "street": "Hoeger Mall",
+                "suite": "Apt. 692",
+                "city": "South Elvis",
+                "zipcode": "53919-4257",
+                "geo": {
+                    "lat": "29.4572",
+                    "lng": "-164.2990"
+                }
+            },
+            "phone": "493-170-9623 x156",
+            "website": "kale.biz",
+            "company": {
+                "name": "Robel-Corkery",
+                "catchPhrase": "Multi-tiered zero tolerance productivity",
+                "bs": "transition cutting-edge web services"
+            }
         },
         {
-          "username": "dennis_futbol",
-          "text": "Is"
+            "id": 5,
+            "name": "Chelsey Dietrich",
+            "username": "Kamren",
+            "email": "Lucio_Hettinger@annie.ca",
+            "address": {
+                "street": "Skiles Walks",
+                "suite": "Suite 351",
+                "city": "Roscoeview",
+                "zipcode": "33263",
+                "geo": {
+                    "lat": "-31.8129",
+                    "lng": "62.5342"
+                }
+            },
+            "phone": "(254)954-1289",
+            "website": "demarco.info",
+            "company": {
+                "name": "Keebler LLC",
+                "catchPhrase": "User-centric fault-tolerant solution",
+                "bs": "revolutionize end-to-end systems"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Mrs. Dennis Schulist",
+            "username": "Leopoldo_Corkery",
+            "email": "Karley_Dach@jasper.info",
+            "address": {
+                "street": "Norberto Crossing",
+                "suite": "Apt. 950",
+                "city": "South Christy",
+                "zipcode": "23505-1337",
+                "geo": {
+                    "lat": "-71.4197",
+                    "lng": "71.7478"
+                }
+            },
+            "phone": "1-477-935-8478 x6430",
+            "website": "ola.org",
+            "company": {
+                "name": "Considine-Lockman",
+                "catchPhrase": "Synchronised bottom-line interface",
+                "bs": "e-enable innovative applications"
+            }
+        },
+        {
+            "id": 7,
+            "name": "Kurtis Weissnat",
+            "username": "Elwyn.Skiles",
+            "email": "Telly.Hoeger@billy.biz",
+            "address": {
+                "street": "Rex Trail",
+                "suite": "Suite 280",
+                "city": "Howemouth",
+                "zipcode": "58804-1099",
+                "geo": {
+                    "lat": "24.8918",
+                    "lng": "21.8984"
+                }
+            },
+            "phone": "210.067.6132",
+            "website": "elvis.io",
+            "company": {
+                "name": "Johns Group",
+                "catchPhrase": "Configurable multimedia task-force",
+                "bs": "generate enterprise e-tailers"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Nicholas Runolfsdottir V",
+            "username": "Maxime_Nienow",
+            "email": "Sherwood@rosamond.me",
+            "address": {
+                "street": "Ellsworth Summit",
+                "suite": "Suite 729",
+                "city": "Aliyaview",
+                "zipcode": "45169",
+                "geo": {
+                    "lat": "-14.3990",
+                    "lng": "-120.7677"
+                }
+            },
+            "phone": "586.493.6943 x140",
+            "website": "jacynthe.com",
+            "company": {
+                "name": "Abernathy Group",
+                "catchPhrase": "Implemented secondary concept",
+                "bs": "e-enable extensible e-tailers"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Glenna Reichert",
+            "username": "Delphine",
+            "email": "Chaim_McDermott@dana.io",
+            "address": {
+                "street": "Dayna Park",
+                "suite": "Suite 449",
+                "city": "Bartholomebury",
+                "zipcode": "76495-3109",
+                "geo": {
+                    "lat": "24.6463",
+                    "lng": "-168.8889"
+                }
+            },
+            "phone": "(775)976-6794 x41206",
+            "website": "conrad.com",
+            "company": {
+                "name": "Yost and Sons",
+                "catchPhrase": "Switchable contextually-based project",
+                "bs": "aggregate real-time technologies"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Clementina DuBuque",
+            "username": "Moriah.Stanton",
+            "email": "Rey.Padberg@karina.biz",
+            "address": {
+                "street": "Kattie Turnpike",
+                "suite": "Suite 198",
+                "city": "Lebsackbury",
+                "zipcode": "31428-2261",
+                "geo": {
+                    "lat": "-38.2386",
+                    "lng": "57.2232"
+                }
+            },
+            "phone": "024-648-3804",
+            "website": "ambrose.net",
+            "company": {
+                "name": "Hoeger LLC",
+                "catchPhrase": "Centralized empowering task-force",
+                "bs": "target end-to-end models"
+            }
         }
-      ]
-    },
-    {
-      "id": 3,
-      "username": "playhearthstone",
-      "thumbnailUrl": "https://tk-assets.lambdaschool.com/c432f179-8bd7-4758-959d-d88a21f96bca_37105899_432228420518610_5035444036064772096_n.jpg",
-      "imageUrl": "https://tk-assets.lambdaschool.com/43bf01f9-319c-469d-8cf5-0120fe1007f1_yosemite.jpg",
-      "likes": 5306,
-      "liked": false,
-      "timestamp": "July 14th 2017, 10:04:08 am",
-      "comments": [
-        {
-          "username": "playhearthstone",
-          "text": "Love this shot!"
-        },
-        {
-          "username": "awaywetravel",
-          "text": "Yosemite is my most favorite place in the universe"
-        },
-        {
-          "username": "awesomebt28",
-          "text": "I like how Half Dome looks so old and useless"
-        }
-      ]
-    }
-  ]
+    ]
 }
